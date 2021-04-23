@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/dummy.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Projects/GlobalAllocationWebUI/package.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Projects/GlobalAllocationWebUI/src/app/admin-components/admin-components.module.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Projects/GlobalAllocationWebUI/src/app/admin-components/message-broadcast/message-broadcast.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Projects/GlobalAllocationWebUI/src/app/admin-components/message-broadcast/message-broadcast.component.scss">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Projects/GlobalAllocationWebUI/src/app/admin-components/message-broadcast/message-broadcast.component.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Projects/GlobalAllocationWebUI/src/app/constants/allocation.constants.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Projects/GlobalAllocationWebUI/src/app/services/post-message.service.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Projects/GlobalAllocationWebUI/src/app/services/uploadService.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Projects/GlobalAllocationWebUI/tsconfig.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Projects/wholesale-allocation-service/src/main/java/com/ford/mss/gotd/wholesale/allocation/service/app/dealerallocation/DealerAllocationController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Projects/wholesale-allocation-service/src/main/java/com/ford/mss/gotd/wholesale/allocation/service/app/vehicleline/VehicleLineService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/package.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/App.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/components/CreateUniversityComponent.jsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/components/CreateUserComponent.jsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/components/FooterComponent.jsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/components/HeaderComponent.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/components/ListUniversityComponent.jsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/components/ListUserComponent.jsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/components/UpdateUniversityComponent.jsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/components/UpdateUserComponent.jsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/components/ViewUniversityComponent.jsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/components/ViewUserComponent.jsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/services/UniversityService.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/services/UserService.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
